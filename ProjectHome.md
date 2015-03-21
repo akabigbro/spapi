@@ -1,0 +1,1 @@
+Utilizing dlopen, dlsym, and dlclose this API supports loading and unloading of plugins based in C++.
